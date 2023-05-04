@@ -1,0 +1,8 @@
+__pycache__
+.venv
+logs
+sprinkler.db
+build
+dist
+*.egg-info
+sprinkler/.build
